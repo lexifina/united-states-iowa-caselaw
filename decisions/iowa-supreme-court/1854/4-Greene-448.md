@@ -1,0 +1,29 @@
+---
+court: "Iowa Supreme Court"
+decided: "1854"
+citations: ["4 Greene 448"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lemp v. Hastings et al."]
+source_url: "https://static.case.law/greene/4/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266723
+---
+
+# Lemp v. Hastings
+
+## Majority (Greene, J.)
+
+Opinion hy
+Greene, J.
+The petition in this case was filed by John Lemp, by which it appears that he resided in school district No. 1, in the city of Muscatine, and that he transacted his business as a merchant, in school district No. 2, in said city ; that in 1853, he had in said district No. 2, personal property amounting to over twelve thous- and dollars, on which the officers of said school district No. 1, had assessed a tax of six mills per cent.; and that district No. 2, had for the same year assessed a tax of three' mills per cent, on the same property; that the collectors-of both districts were requiring payment from him ; that he did not know to which of the districts payment could be legally made. The petition prays that Criarles P. Hastings, as collector of school district No. 1, and that Abial Pry, as collector of school district No. 2, be made parties, and asks that both of them may be restrained from collecting, until the right may be determined. Both respondents in their answers, admit the allegations in the petition,. but Hastings as collector of district No. 1, alleges that Lemp is the head of a family having children, and living in said district No. 1, and that he is a merchant, having his store and merchandise and business transactions in district No. 2, and that the tax levied on his property is legally - assessed. Pry’s answer admits the facts averred in plaintiff’s petition and in Hasting’s answer, but insists that the collector of district No. 2, is legally entitled to the tax on said merchandise. The court below found that the merchandise taxed, was in school district No. 2; that the owner thereof had his domicil in school district No. 1, and that district No. 2 could not tax said merchandise to pay taxes voted therein.
+This decision of the court below is claimed to be erroneous, and we think with good reason. ¥e have already had a case before us, from the same locality, involving the same question. In Ament v. Humphrey, it was decided, as Ament resided in school district No. 1, and had his store in school district No. 2, that his personal property in school district No. 2, was not liable to be assessed for school tax in district No. 1. If the principle, established by that case, has notbeen changed by legislation since 1850, it follows that the rule adopted in that case should govern in this. When a rule or principle of law has been fully recognized by the supreme court, it should not be overruled, unless it is palpably wrong or has been •changed by legislative enactment.
+In reference to the principles involved in this case, there has been no such change; on the contrary, the Code adopts the same rule in reference to counties. Section 463, provides that when a person is doing business in more than one county, the property and credits are to be listed and taxed in that county where they exist. Under section 460, this rule is some what different. It provides that “ all personal property is to be listed, assessed and taxed in the county where the owner resides,” <&c., on the 1st of March of that year. This section no doubt influenced the decision of this case in the court below. But we think the •personal property contemplated in this section, is not applicable to goods, wares and merchandise kept in an established store as the basis of a local business. This distinction is recognized by § 463. If a party has most of his capital invested in an established store in Muscatine county, whence he derives his profits and income, and resides in Scott county, it could hardly be regarded as a fair construction of the above sections to say that his property and credit existing in Muscatine, should yield their revenue to Scott. That county in which .his business is established, and which furnishes the protection, security and profits to his property, should derive its appropriate revenue therefrom. Such should be the policy of revenue laws, and such we believe to be the spirit and intention of the Code.
+In this opinion, we are especially confirmed, where the • conflict arises between two school districts, as in this case. The tax is only authorized by a vote of the qualified electors of the district; and such electors of a district at a legally authorized meeting shall have power, ‘"To lay such tax on the taxable property of the district, as the meeting shall dsem sufficient,” &c., Code § 115, ¶ 5. The power to lay such a tax, is confined to the electors of a district and to the property of that district. They have no power to lay a tax upon property in another district.
+Cloud and O' Cornier, for appellant.
+W. C. Woodward, and 8. Whicker, for appellees.
+The course to be adopted under the Code, in reference to personal property may be thus defined. Where the personal property has no established locality, and is not used in doing business in a county or district in which the owner does not reside, then such personal property, is to be listed and assessed as directed by § 460 of the Code. But if such property has a known locality, and is used in doing business at such locality, it must be listed and taxed in the county or school district, wherein it is thus used.
+We conclude then, that the court below erred in deciding that Lemp’s merchandise located and used in doing business in school district No. 2, was subject to a school house tax, by a vote of the electors of district No. 1, in which he had his domicil.
+Judgment reversed.
+3 G. Greene, 255.
