@@ -1,7 +1,8 @@
 ---
 court: "Iowa Supreme Court"
 decided: "1845-01"
-citations: ["1 Morris 417", "1 Morris 426"]
+decided_precision: "month"
+citations: ["1 Morris 417"]
 reporter: "morris"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
