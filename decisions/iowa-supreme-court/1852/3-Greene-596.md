@@ -1,0 +1,31 @@
+---
+court: "Iowa Supreme Court"
+decided: "1852-02"
+citations: ["3 Greene 596"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heichew v. Hamilton."]
+source_url: "https://static.case.law/greene/3/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2265120
+cites_cases: ["4 Bibb., 486", "6 Pick., 206", "7 Cow., 307", "8 Mass., 223", "9 Mass., 522"]
+---
+
+# Heichew v. Hamilton
+
+## Majority (Greene, J.)
+
+Opinion by
+Greene, J.
+This action, was commenced under the Code by William Heichew against Jacob HamiL ton. The petition sets up a claim of damages against the defendant for keeping a tavern, contrary to an agreement, by which plaintiff was induced to purchase land from defendant. The petition charges, among, other things, that the tract of land so purchased consisted of about thirty-two acres; that at the time of the purchase the defendant kept a tavern half a-mile from the land, and had been in the habit of entertaining travelers; that, as an inducement for the plaintiff to purchase the land, the defendant represented to him that tavern keeping was a good business, that the site was a favorable one, that as soon as plaintiff should get ready to entertain travelers, he, the defendant, would quit tavern keeping; and that in consideration of the premises the plaintiff purchased the land, with the express understanding and agreement that defendant should quit the business, as aforesaid. The petition also charges that the plaintiff, immediately after purchasing the land, constructed and finished a suitable tavern house and out buildings, and made other expensive preparations for tavern keeping; that after he was thus prepared for the business, the defendant, although often requested to desist, still continued to keep and entertain travelers, and thereby diverted a large portion of the custom from plaintiff’s tavern. The petition claimed damages, and prayed for relief in due form.
+Defendant demurred to this petition, on the ground that it does not set forth a case which entitles plaintiff to relief. This demurrer was sustained by the court.
+There were two causes of demurrer assigned on which the court below acted, and to which our attention is now directed, as reasons for reversing the decision: 1st. That the petition sets forth no agreement on the part of defendant to refrain from keeping tavern. 2d. That if there is an agreement set forth, it is one in restraint of trade, and therefore illegal.
+First. It is contended that the court below erred in deciding that the petition set forth no agreement that the defendant would refrain from keeping tavern. In reference to the agreement, the petition contains the following words: “Tour petitioner purchased' the said lands with the express understanding and agreement that the said Jacob Hamilton should quit, as aforesaid.” This language, in connection with what ^precedes, sufficiently avers an agreement, on the part of the defendant, to quit the tavern keeping business. Under the Code, §§ 1734, 1736, it is only required that the petition show a substantial cause of action, by a fair and natural construction of the language in which the facts are stated, upon which the action, is founded. By section 1733, all technical forms of actions and of pleadings are abolished. It is clear, then, that the first cause of demurrer assigned, should not be maintained under the demurrer.
+Second. Upon the second point the question is presented, was the agreement set forth in the petition such a restraint upon trade as to make it illegal ? The petition shows that the two taverns are in the same township, on the same road, and within half a mile of each other. It is sufficiently shown that the agreement applied, to the particular tavern which Hamilton was keeping, at the time of the sale, and near the land sold. It was then an agreement to discontinue tavern keeping at a point designated, and upon the strength of this agreement, Heichew was induced to purchase the land from Hamilton, and erect suitable buildings for that business. An agreement like this can hardly be considered an illegal business. Contracts which have a restraint upon trade in general, are not authorized by law, because they have a tendency to monopolies which are highly injurious to the public. But it is generally considered by the courts that an agreement to restrain trade in a particular place may be good.
+In England the doctrine is well settled that a bond or promise, on good consideration, not to exercise a trade for a limited time at a particular place, or within a particular parish, is good. But if the restraint is general, extending throughout the kingdom, it is bad, because it operates too great a restraint upon trade, and is oppressive to one party without being of benefit to either. 1 P. Wins., 184; 2 Saund., 156, note 1; 7 Mod., 230; 10 ib., 27, 85, 130; 2 Ld. Raym., 1456; 5 T. R., 118.
+In Perce v. Fuller, 8 Mass., 223, where A., in consideration of one dollar, agreed not to run a stage on a specified road under a penalty of two hundred and ninety dollar’s, the agreement was held to be valid.
+Perce v. Woodward, 6 Pick., 206, bears striking analogy to the case at bar. The plaintiff purchased from the defendant a grocery store, for a sum stated in the deed, and the defendant agreed verbally not to carry on the same business within a certain distance: it was held that as plaintiff was thereby induced to make the purchase, the consideration for the agreement was sufficient, and that as the instruction was confined within small limits, it was not against the policy of the law. See, also, Nobles v. Bates, 7 Cow., 307; Perkins v. Lyman, 9 Mass., 522; Pyke v. Thomas, 4 Bibb., 486; 1 Story’s Com. Eq., 289, 290; Powell on Con., 102. The petition in the present case shows that the promised forbearance to keep tavern, induced the plaintiff to purchase the land, and the' restriction was within a small limit, and consequently was not against legal policy. We think, therefore, that the demurrer should have been overruled.
+Smith & McKinley, for plaintiff in error.
+Clark & Bissell, for defendant.
+Judgment reversed.
