@@ -1,0 +1,30 @@
+---
+court: "Iowa Supreme Court"
+decided: "1849-06"
+citations: ["2 Greene 257"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Crookshank et al. v. Mallory."]
+source_url: "https://static.case.law/greene/2/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8664604
+---
+
+# Crookshank v. Mallory
+
+## Majority (GeeeNB, J.)
+
+Opinion try
+GeeeNB, J.
+An action of assumpsit by Samuel Mallory against Jesse and James J. Crookshank, in which tbe plaintiff recovered a verdict and judgment of twenty five cents.
+Tbe suit was for work under a written contract to erect a frame for a dwelling, and also a frame for a kitchen attached to tbe same, under a separate contract. It appeared on tbe trial,? that tbe defendants had finished off tbe kitchen part, and were living in it; and had left the main budding unfinished, alleging that it was not framed in a workmanlike manner, nor within the time stipulated by the contract.
+1. The defendants gave evidence tending to prove that •they had paid most of the contract price f< r the dwelling frame, before it was finished, that on the day it was raised and the defeets appeared, they objected to them, and to those parts that were incomplete; that they then, and have ever since refused to pay the balance due on tbe contract, in consequence of these defects; and that they had always refused to accent the dwelling frame from the plaintiff. This evidence was excepted to, and was ruled out by tbe court. To this ruling objections are urged, but we tbinlc tbe court acted correctly. Tbe defendants could not avail themselves of their own objections, and refusals as a justification for not paying a debt. A party cannot give evidence of his own acts and declarations, in order to show that another party has failed in his contract to him.
+2. It is objected that the court charged the jury, that if the dwelling frame was defective in some particulars, and not entirely completed within the time, and in the manner specified, but 'was nevertheless of real substantial value to the defendants for the purpose intended, the plaintiff would be entitled to a compensation, to be ascertained by deducting from the contract price so much as it was worth, less than it would have been it completed according to agreement. There is nothing pointed out to us in this instruction, that is not perfectly consistent with the contract, or that infringes upon any principle of law. The doctrine involved in this instruction was fully recognized by this court in Davis v. Fish, 1 G. Greene, 406. We there say, that “the rule is settled beyond question, that if a job of work is of some use and value to the employer or vendee, though improperly done, or not within the stipulated time, still the workman or vendor, is entitled to recover as much as the work is reasonably worth; making such allowance as the circumstances may require.” Under this rule, the above charge to the jury was obviously correct.
+8. The court then instructed the juiy that to enable the plaintiff to recover, it was not necessary that defendants should have taken the dwelling frame off his hands. This instruction is also unexceptionable. Such an improvement attaches to the realty. It is a part of the land, and passes to the owner with his possession of the land, without the formality of a delivery and acceptance.
+4. The defendants gave evidence, tending to show that they had sustained damages by plaintiff's defective performance or the contract; and they then asked the court to direct the jury to treat such damages, if they found any, as so much set-off; and if in striking a balance, any thing should be due the'defendants, they should return a verdict in their favor for such a balance. But the court refused to give such direction to the jury. To this ruling the defendants excepted, and now urge the same as error. We think the court decided correctly. It is clear that where a mechanic sues for his labor, and a defense is made by setting up damages for defective work, such damages can only be used as a defense against the plaintiff’s claim, and not as a ground of action in the nature of set-off; by which the defendant may recover over, against him The statute provides that a defendant may set-off “ any demand” he may have against the plaintiff. Urn. Stat. p. 318. The defendants in this case set up no demand a-gaiust that of the plaintiff, but sought rather to destroy his claim by showing that the work was not properly done. A set-off must be predicated upon an independent demand, which a defendant has against the plaintiff. But in this case, the defendants attempted to set-off a claim which resulted from, and depended upon the demand of the plaintiff. Had the defendants recovered a verdict, it would not have been the result of their demand against the plaintiff, but it would have been by the avoidance or destruction of the plaintiff’s demand against them. If the plaintiff had no demand, the defendants had nothing against which they could place their set-off; and if the plaintiff’s demand was legal, then the defendant’s claim would necessarily fail, because it depended upon the fact that it was not a legal demand.
+True, if the plaintiff liad failed, in the performance of hie contract, the defendants may have had a claim against him' for damages; but a recovery could only be had in a cross action. The defendants had their election, to sue for damages, or to tggov>j>& their damages, when sued for the price of their work.
+We find in Chitty on Con. 656, that “ a set-off means a cross claim, for wliicli an action might- be maintained by the defendant against the plaintiff; and is very different from a mere right to a reduction of his demand or claim to defeat it, on account of some matter connected therewith.” This explanation from Chitty, shows that the court below properly refused to direct the jury as requested by defendants.
+H. M. Shelby and J. H. Oowles, for plaintiffs in error.
+Wright <& Knapp, for defendant.
+Judgment affirmed.
