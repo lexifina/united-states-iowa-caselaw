@@ -1,0 +1,46 @@
+---
+court: "Iowa Supreme Court"
+decided: "1850-06"
+citations: ["2 Greene 513"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mix vs. Ely."]
+source_url: "https://static.case.law/greene/2/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8665283
+---
+
+# Mix v. Ely
+
+## Majority (KiNNEt, J.)
+
+Opinion by
+KiNNEt, J.
+The plaintiff in error filed bis petition for the benefit of a mechanics’ lien. The petition was demurred to and the demurrer sustained. An amended petition was filed setting forth that on the first day of January 1845, Alexander L. Ely since deceased, was the occujmnt and owner of lots 4 and 5 in block 3 in the town of Cedar Rapids in Linn county. That at that time said Ely entered upon the building of a flouring mill on said lots, and that petitioner being a practical millwright, a contract was made between him and said Ely, whereby it was agreed among other things that said petitioner should superintend the building and construction of said mill, and should furnish fiends to .work on the same for such reasonable wages as might thereafter be agreed upon. That said Ely was to pay petitioner from time to time as the work progressed, and to settle with petitioner for any balance which might be due him when the work was completed, and to pay the same as should then be agreed upon. That petitioner in pursuance of the agreement, entered upon the performance of said contract on his part, and gave his own services in superintending the job, and furnished hands to do the work in building said mill.
+The petitioner further states that he has no written copy or memorandum of said contract, and that none was made, and that he has not the account of the work and labor performed, and furnished in building said mill, and cannot set forth the same item for item, but that a memorandum of the substance of said contract will be found in the books of said Alexander L. Ely, and in the bands of the defendant, and charges that on the said books will be found the full particulars of all his accounts. Petitioner further states that by said books a settlement up to the close of the year 1846 was made- in May 1847, and the situation of the accounts up to that time entered thereon, and _that on the completion of said mill to wit: on the 23d day of December 1847, petitioner and said Ely had a final settlement of all the work furnished by said petitioner, and that for such work in erecting said mill there was found a balance due petitioner of three hundred and seventy three dollars and five cents, all of which petitioner charges to be correct, and calls upon defendant to produce said books for more full and particular information. Petitioner further states that upon such final settlement said Ely gave to petitioner his promissory note for the amount so found due him, which said note was given for the work aforesaid in erecting said mill, a copy of which is set out in the petition and was as follows:
+For value received I promise to pay E. C. Mix or bearer three hundred and seventy three dollars and five cents, on the first day of May next with interest. December 23d 1847.
+ALEXANDER L. ElY.
+Petitioner charges that this amount is now due and unpaid, and prays that the same may be adjudged a lien on the aforesaid premises, and for special execution to sell the same, that the said John F. Ely administrator of the estate of said Alexander L. Ely, may be made party defendant &c. and for general relief.
+Accompanying the petition was a bill of particulars which petitioner alleges is as perfect as he can make it without reference to the books of said Ely. This bill of particulars specifies the work done by petitioner, and furnished by him, the date, and amount due after deducting out the credits.
+The petition was demurred to by the defendant for the following special causes.
+1st. That no contract was set forth within the intent of the statute.
+2d. That the time of payment by virtue of the contract was not stated.
+3d. That no sufficient bill of particulars was set forth.
+4th. That the plaintiff took and accepted the defendant’s promissory note for the balance claimed according to the petition and therein gave time for payment.
+5th. The action was not commenced within one year after payment was to be made by virtue of the contract.
+6th. The proper parties to the bill are not made.
+This demurrer was sustained by the court and the petition deemed insufficient in law to enable the plaintiff to maintain his lien.
+We think the court erred in sustaining the demurrer.
+The contract is sufficiently stated in the petition, and the time of payment as well specified as could have been done according to the terms of the agreement. Payment was to have been made as the work progressed, and at the completion of the mill, if any balance was due the plaintiff, the same was to bo paid as should then be agreed on. This disposes of the first and second causes of demurrer.
+In relation to the third, we have .already decided in the case of Greene & Brothers v. Ely, tried at the present term of the court, that a bill of particulars was necessary. Put in this case, there is a bill of particulars which although not as full as it ought to bo in ordinary causes of this nature, yet it appears from the statements of the petitioner to be as specific as was possible for him to make. It seems that from the confidence lie reposed in the integrity of Mr. Ely, he had entrusted the keeping of his accounts entirely to him. His books contained all the items, from them the settlements had been made, and they were in the possession .of the administrator inaccessible to the plaintiff. The defendant is in possession of all the information upon the subject of the indebtedness, and he is called upon to produce the books in court which exhibit all the facts. If it were possible to dispense with the filing of a bill of particulars, this case would present a seeming propriety in doing so. B ut as the statute is inflexible upon this subject, the rule cannot be relaxed. However, the plaintiff has saved his case in this respect, by filing a bill of particulars, and has furnished a forcible reason for not making it more definite and pointed.
+The fourth cause of demurrer is answered in the case above referred to. The settlement of a demand by note, which in its nature entitled the creditor to the lien provided by statute, will neither bar nor affect the lien, unless _there is evidence to show that the right to the lien was waived by accepting the note.
+Upon examination it is found, that the fifth cause of demurrer is not sustained by the facts. The note was given on the 2d of December, 1847, and was due on the first of Hay, 1848. The summons was served on the 27th March, 1849. The 2d. section of the act p. 318, provides that “when any person shall wish to avail himself of the benefits of such lien, lie shall commence his action in any court having jurisdiction of the same, within one year from the time payment should have been made by virtue of such contract, by whiclnsñch lien shall be claimed.”
+The payment of the note on the contract which created the lien, should have been made"on the first day of May, 1848. It was only necessary then, to commence the suit within one year from that time. By .the terms of the contract as set forth in the petition, (and which are admitted to be correct by the demurrer,) the amount due the plaintiff on the completion of the work, was to bo paid at such time as should then be agreed upon. The parties agreed upon the first of May for such payment. According to the state of the -pleadings, this is the same as if the parties had agreed in the original contractupon that time, as the time for the final payment, and hence in computing the time for the commencement of the action, it should be reckoned from the day of the maturity of the note, and not from the day when the work was completed. But we are not jirepared to say, that such would be the rule, if time for payment in the original contract was not stipulated by the parties.
+Damis (& B%ssell, for plaintiff in error.
+W. Q. Woodward and Wm. Smyth, for defendant.
+But it is said, that “the proper parties are not made to the bill.” "Whether the demurrant means by this specification party plaintiffs or party defendants, the demurrer does not advise us. It is entirely too vague and indefinite. The administrator is certainly for one a proper party, and if there are others, heirs for instance, who should have been made parties, the petitioner takes his lien and special execution at his peril. Á proceeding to enforce a mechanic’s lien affecting as it does the realty, cannot bind or preclude the heirs from asserting their rights, unless they are party to such proceeding.
+But in this case, there is no allegation or suggestion either in the petition or demurrer, that there are heirs, and the court upon special demurrer are not at liberty to presume anything which does not appear of record.
+The judgment of the court therefore upon the demurrer, is reversed and the case remanded for further proceedings not inconsistent with this opinion.
+Judgment reversed.
+Ante 508.
