@@ -1,7 +1,8 @@
 ---
 court: "Iowa Supreme Court"
 decided: "1848-07"
-citations: ["1 Greene 537", "1 Greene 547"]
+decided_precision: "month"
+citations: ["1 Greene 537"]
 reporter: "greene"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Blake v. Dorgan."]
 source_url: "https://static.case.law/greene/1/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1872488
-cites_cases: ["13 Mass. 265", "17 Pick. 142", "19 Johns. Rep. 538", "20 Pick. 510", "5 Mass. 376", "6 John. 566"]
+cites_cases: ["19 Johns. Rep. 538"]
 ---
 
 # Blake v. Dorgan
