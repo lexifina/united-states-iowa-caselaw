@@ -1,0 +1,43 @@
+---
+court: "Iowa Supreme Court"
+decided: "1854"
+citations: ["4 Greene 420"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wright et al. v. LeClaire."]
+source_url: "https://static.case.law/greene/4/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266854
+cites_cases: ["2 Black., 274", "9 Wend., 68"]
+---
+
+# Wright v. LeClaire
+
+## Majority (Haul, J.)
+
+Op'mion 'by
+Haul, J.
+This is a hill in chancery, exhibited by Mary G. Wright, the widow, and John A. Gano and others, heirs at law of John A. Gann, sen., deceased, against Antoine LeClaire, for the specific performance of a contraed
+The petition sets out a contract, in the form of a title bond, executed by LeOluire to the decedant. on the 14-th day of December. 18+0. The bond is in the penal sum of one thousand dollars, and sets out a condition as follows :
+Wherea*, The above hound Antoine LeOlaire hath {tnl.il to the said Joint A. Ga-no, two certain lots or tracts of land, situate in LnOlaire’s second addition to the town of Davenport,.-Town Territory, known, designated and numbered on the plat of said addition, as out lots number twenty five, and twenty ,-ix. for the consideration and upon the condition following, to wit : For the sum of five hundred dollars, twenty-five dollars thereof in hand paid ; one hundred aud fifty dollars on the first of June, 1841, and the balance thereof in two equal installments, to he paid in twelve and eighteen mouths from this date, as appears from three several promissory notes, of said John A. Gano, bearing even date herewith. Now the condition of the above obligation is such that if the above bounden Antoine LeClaire, on the payment to him of the aforesaid sums of money, at the time above limited therefor, does, and shall, at the cost and charges ol‘ the said John A. Gano, convey by good and sufficient warranty deed, the fee simple title to the said two out lots, to said John A. Gano, or to his assigns, then this obligation to be void ; otherwise to be and remain in full force and virtue.
+Antoine LisOlaire.
+Witness Andrew JF. Bussell.
+The petition avers that no further payment was made upon the contract until June, 1844, when LeClaire, by suit.at law, collected from Gano the amount due on the notes given for the land.
+That about the first of July, 1844,. John A. Gano departed this life, leaving Mary G. Wright, his widow, and the other complainants, his heirs ; that said heirs were all minors at the death of said Gano, and the oldest of his children did not arrive at the age of majority until 1849, and several of them are still minors.
+The petition alleges that at the time the .contract was entered into, said John A. Gano was a non-resident of the then territory of Iowa, and has never resided within the ■territory or state; that said widow and heirs have continued to reside in the state of Ohio from the death of said Gano, and never came within the state of Iowa until a short time previous to the commencement of this suit. •;
+The petition avers that owing to the infancy and situation of said widow and heirs, they never ascertained or were informed of the existence of this contract, until a short time before the suit was brought; that soon after they discovered the fact, they demanded a deed of said LeClaire, and offered to pay all expenses, &c., which he refused. The petition prays tor a specific performance of the obligation, &c.
+To this petition the defendant interposed a plea of the statute of limitations, approved February 15th, 1843. The plea is based upon the fourth section of that act. This section provides, ‘‘That every action of debt, covenant for rent, or arrearages of rent, founded upon any lease, under lease, or every action ors account founded upon a single or penal bill, promissory note or writing obligatory, for the direct payment of money or the delivery of property, or the performance of covenants, or upon any award under the hands and seals of arbitrators, for the payment of money only, and every action of assumpsit shall be commenced within six years after the cause of action shall have accrued, and not after.”
+The plea is supported by an answer in which the non-residence of' Gano is admitted ; but as to his death and the condition of plaintiffs, the defendant only discloses belief, and denies inferentially, but does not deny as of his own knowledge. The contract is admitted, and the payment of the consideration money is also admitted, and néw matter set up, showing that the consideration money was in part made by the sale of the lots sold by him to Gano.
+There was á demurrer filed to the plea, which the court below sustained, and dismissed the petition.
+This plea has been treated in the argument, as a mixed plea. If it is so, the court erred in dismissing the bill, for there was an issue of fací between the complainant and respondent which it'was absolutely necessary for the defendant to make, to support the plea. The circumstances set forth in the petition, to take the case out of the statute of limitations, must be denied by the owner, or the plea could not he allowed. Then it was the duty of the court, even if the plea was allowed, to retain the cause, and try the questions of fact, which alone supported the plea.
+But should this plea be allowed ? Is it in fact any defense to the relief prayed for in' the petition ? This 'might perhaps, be answered without giving any traction to the etatnte, by simply ascertaining when a cause of action at law, upon the penalty of the bond, accrued to Gano, or his heirs. We think not, until the expenses of executing the deed, were proffered am! a demand was made by Gano, or his heirs, and a reasonable time had elapsed after the demand.
+Powers v. Bridges, A. G. Greem. 236; Wood v. Goodrich, 9 Wend., 68; Sheets v. Andrew, 2 Black., 274. There does not- appear to have been any demand made, until .recently, and from aught that appears, LeClaire touhi have resisted the forfeiture of the penalty of the, bond unb; this íeceqt demand was made, on the ground that, the expense-of the deed had not: been proffered, and a proper demand made. Under this view the statute, could only apply to his covenants to convey the lots ; here again the game dilemma arises. Gano, had no action at law, against LeClaire, either in covenant or debt, until he liad made the demand of the deed. But, six years have past since the payment of the money by Gano, and there has been no demand of the deed, and still it is claimed that he is bound by the statute, ¡rom maintaining Ins action by tailing to have an action. The act; pleaded in this case did not take effect until the 4th oí' July, 1843 — act or February, 15th 1843, Kev. Stat. 377, § 1, — -and did not commence miming until after the death of Gano. If the heirs of Gano, were minors and out of the territory as set jbv-'h in the petition, then they are completely saved by the 7th. and 8th sectiob® of the act of limitation of 1848. Rev. íátat. 886.
+The answer in this case, is to the whole merits of tha petition, and therefore overrules the plea. To be allowed, the answer should have been confined to those facts alone which went, to support the plea.
+The answer, does not in fact, support the plea, for the main facts relied upon, to excuse the petitioners for the laches are not positively denied.
+The authorities cited in this cause, by the counsel, we {¡link prove that the 4th section of the act, does not apply to fiiese kind of eases. That equity, acting by analogy to the law, should give the subject and object of the suit, its true purpose, and follow the law of real estate. ...
+Leff 'mtjweU and Dow, for appellants.
+Jas. Grant, lor appellee.
+The capital circumstance of the contract, was the land. Gano contracted for the land, and LeChirie, agreed to-convey land, and not to pay money. Both parties considered fixe sale of the land to be the main portion of the contract. When Gano paid the money and LeOlaire received it, it was for the land and not for money to be returned at a future day. It was a contract affecting the realty, and was such an interest, as our laws recognized as real property, and could be seized and sold on execution ; was • subject to a judgment lien, and the widows dower* and courts of equity treat it as real estate. LeClair, shows in'his answer, that he treated it as the real estate of Gano. He levied upon, and sold it under execution.
+Decree dismissing the petition reversed, and cause remanded, with instructions to the court below, to disallow the plea.
+Decree reversed. ,
