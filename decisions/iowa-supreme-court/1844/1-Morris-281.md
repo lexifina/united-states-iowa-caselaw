@@ -1,0 +1,26 @@
+---
+court: "Iowa Supreme Court"
+decided: "1844-01"
+citations: ["1 Morris 281"]
+reporter: "morris"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lowe & Hickok, plaintiffs in error, vs. Ganby, defendant in error."]
+source_url: "https://static.case.law/morris/1/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672352
+---
+
+# Lowe v. Ganby
+
+## Majority (Mason, Chief Justice.)
+
+Pur Curiam,
+Mason, Chief Justice.
+The main question to be considered in this case, is, whether the admission of the book of original entries of the plaintiff below, in the manner set forth in the bill of exceptions was regular and legal. Such books of entries are admitted as evidence by the courts of most of the States of the Union, under regulations differing somewhat in the different sections of the country.
+We shall therefore feel constrained to regard evidence of this nature (in some form or other) as legitimate, unless our statute has so changed our condition as to require its exclusion.
+The admission of testimony of this nature is a radical departure from one of the fundamental rules of evidence, by permitting a party to manufacture proof for himself. But from the necessity of the case, such evidence has been deemed admissible, the courts deeming it better to disregard even a salutary rule of law, than to leave a large class of creditors remediless.
+Our statute, however, has done away with this necessity. It allows the creditor to summon the opposite party as a witness, and lest his ignorance or want of memory should leave the evidence defective, the act of January 28ih 1842, which was in force when this causa was tried below, provides “ that upon the examination of either party upon the application of the opposite party in any suit in any court in this territory, said suit being founded on contract, should said party be unable to testify to the correctness or incorrectness of any item or items in the demand or set off; the party wishing said demand or set off, shall be allowed to swear to the correctness of said item or items, provided they shall have been charged by him in a regular account, and he shall prove by competent testimony that he is in the habit of keeping his account or accounts correctly. ” Statutes of 1841-2, page 21.
+We think that after the enactment of these statutes, the argument of “ necessity ” had ceased to have its force. The creditor was no longer destitute of testimony to prove his demand. The law had established a rule different from that settled upon by the courts. It covered the same ground, was of paramount obligation and therefore superseded the other. It prescribed the conditions upon which a creditor might swear to his own account. It authorized this to be done where the debtor having been first called upon, refused to swear, or if, when sworn, his knowledge or recollection was defective, provided the creditor should first prove that he was in the habit of keeping his accounts correctly. What necessity for this statutory provision if it was the intention of the law to allow the creditor to be sworn in the manner permitted by the court below, in the present case. Why give him the privilege of being sworn afler he had first called upon the opposite party, if he had the right of being so sworn in the first instance? We think it may be fairly inferred that the statutory provision we have been considering, was intended as a substitute for any and all the rules on this subject which had been established by the courts. At all events it did away with the necessity of the latter, which was its sole foundation.
+It will be objected, that by the statutory rule, a great hardship is imposed upon the creditor, he being bound to trust his whole case to the veracity of his antagonist. True, but is it more unreasonable to rely upon the oath of the debtor than upon the book of entries of the creditor? The proper answer to this question becomes the more evident when we reflect that the one in giving credit performs a voluntary act. He can protect himself from loss by refusing to trust his customers. But the debtor has no such protection against a dishonest trader, whose books may contain charges of goods never sold, and although the salutary rule which requires proof that some of the articles were delivered prevents a person from being placed wholly at the mercy of the books of one with whom he has never had dealings, still, he must be prudent and distrustful to a most extraordinary degree, if he does not by the purchase of one or two trifling articles, render himself liable to a trumped up amount of hundreds of dollars, by one who is sufficiently dishonest to resort to such villainy. We think therefore so far from the existence of a necessity for the continuance of the rule established by the eourst; the statutory rule is far preferable. The reason therefore for the departure from the good old common law rule of evidence having ceased, we regard it as the duty of the courts to retrace their steps and to abrogate their rule which had nothing but necessity for its justification, even although the statute may not directly require it.
+The judgment below will therefore be set aside and a new trial ordered.
