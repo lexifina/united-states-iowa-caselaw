@@ -1,0 +1,27 @@
+---
+court: "Iowa Supreme Court"
+decided: "1848-01"
+citations: ["1 Greene 89"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen v. Dunham."]
+source_url: "https://static.case.law/greene/1/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1872483
+---
+
+# Allen v. Dunham
+
+## Majority (Greene, J.)
+
+Opinion by
+Greene, J.
+• A motion was made and sustained in the court below, to quash the original writ, because it does not bear test in the name of the district judge, as required by statute, The decision upon that motion is the only error assigned in this ease.
+It appears that the suit w%s originally commenced, and summons issued, on the 26th February, 1847. But, on the fourth day of the same month, a law was approved by the governor, and on the tenth of that month took effect, by publication in newspapers, dividing the state into four judicial districts. This law having taken effect before the suit was commenced, and there having been no election till the following April, the judges under territorial appointment not having been designated to the new districts, it is assumed for the defendant in error, that there was no judge of the district court in whose name the writ could bear test, and that as a consequence it could not issue with the requisite legal attestation. To this conclusion we can see no legitimate objection.
+Though true, Judge Mason, in whose name the writ bore test, had an appointment under our territorial organization, and the constitution of Iówa adopted and continued in force all territorial laws, till altered or repealed, and authorized all officers of the territory to exercise the duties of their offices till superseded under the constitution; still, the new law, dividing the state into four judicial districts, evidently abrogates those portions of the old law which divided the territory into three districts, and assigned a judge to each. And thus, the territorial judgés, even if authorized by the constitution to act in the double capacity of district and supreme judges of the state, are left without authority or jurisdiction over any particular district. If they were authorized by the constitution to officiate as district judges, yet as they were not designated to particular districts under the new districting law, and there being more districts than judges, it was evidently impracticable and unauthorized to set apart any one judge to any given district, though corresponding in number to the district in which he formerly acted; and hence the districts remained alike destitute of judges till they were elected by the people.
+But may it not be held, with much reason, that the territorial judges could not act in the two-fold capacity of supreme and district judges 1 Holding over and acting, as they did, as judges of the supreme court, their official powers were necessarily limited to that court under the constitution; by which the judges of the supreme court, as also those of the district courts, are limited in jurisdiction and. office to their respective courts. In becoming the judge of one court, the incumbent is rendered ineligible to the office .of the other. See sections 3 and 4, in the 4th article of the constitution. The organic law of the territory authorized the judges of the supreme court to act as judges of the district courts, but the constitution of the state renders the two offices in the same person incompatible; and therefore, the territorial- judges could hold over only in the capacity they assumed as judges of the supreme court.
+. It is contended by plaintiff’s counsel, that though the law of 1847 would, by districting the state anew, leave an interregnum in the office of district judge, still the court had no ri^ht to treat the law as in force' on the 26th February, 1847. It is provided by the last section of that law, that it shall take effect from and after its publication in newspapers. The only evidence in the statute of its having been published in newspapers prior to tbe 26th February, is a printed note inserted after the act, stating that it was published in the Standard and Reporter, 10th February, 1841. As this note was inserted without authority of law, it is very properly claimed that it proves nothing. And if it proves nothing, it is asked, how could the court determine that the law was in force on the day the writ issued 1 The ordinary rule for the taking effect of a law is changed by our constitution. Instead of going into operation, as formerly, from the date of its approval, or from a particular day in the law stated, it cannot now take effect till published and circulated in the several counties of the state; or, if deemed of immediate importance, from its publication in newspapers. The question now arises, how is the fact to be determined by or proved to a court when an act of the legislature takes effect. What the laws are, what are in force, and when they commenced taldng effect, are matters properly cognizable and within the purview of the courts themselves. As a judge is presumed to know what the law is, so is he presumed to know when it is in force. And as he will, ex-officio, notice when a law is enacted, he will in like manner notice its publication and circulation, or its publication in newspapers, when these things are constitutional requisites to the operation of a law.
+Judgment affirmed.
+Rev. Stat., 468, § 1.
+Laws of 1847, p. 39.
