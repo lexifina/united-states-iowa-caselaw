@@ -1,0 +1,23 @@
+---
+court: "Iowa Supreme Court"
+decided: "1845-01"
+citations: ["1 Morris 463"]
+reporter: "morris"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James A. Cunningham, vs. Wesley Depew, William Thorn and Joel Arrington."]
+source_url: "https://static.case.law/morris/1/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6677032
+---
+
+# Cunningham v. Depew
+
+## Majority (Mason, Chief Justice.)
+
+Per Curiam,
+Mason, Chief Justice.
+The main facts in this case are not controverted. The complainant, in August 1842, then a resident cf the State of Ohio, purchased of the defendant, Depew, what is commonly known asa “claim,” embracing a quarter section of land, lying in the county of Jeifcrson in this territory, for which he was to pay the sum of six hundred dollars. Nearly five hundred dollars of this amount was paid down, and to secure the remainder a promissory note was given for the sum of $109, payable April 1st 1843. In February 1843 the land was brought into market. Cunningham was absent and Depew borrowed money of one Arrington, with which he entered the land, and afterwards sold the same to the defendan, Thorn. The most material point in dispute is whether Depew, in borrowing the money of Arrington and entering the land, acted as the agent of Cunningham. This matter, however, seems to be placed beyond contfb-versy by the letter of Depew, dated February 11th 1843, which ⅛ appended to the bill as an exhibit. He there States i “ Í received a few lines from you stating (hat you wished me to buy your land. I obtained a loan, of money sufficient to enter your claims, which was twOihundred dollars at twenty per cent, for two years, but you have the right to redeem it in the spring if you wish, <&c., &c.”
+The sale seems to have been made to Thorn without any knowledge on his part of Depew’s want of power to make him a good title. He doubtless therefoie acted in good faith and his title cannot be disturbed. The conveyance, therefore, asked for in the bill was properly refused, but it requires neither authority nor argument to show that Cunningham is entitled to relief against Depew. The latter sold complainant a claim to a quarter section of land for which he received $600 in cash and negotiable paper. When the land was about to come into market he as agent for complainant borrowed the money necessary to pay for it with the evident understanding that it was to be repaid by his principal. Afterwards without authority from his principal he sold the land to a bona fide purchaser without notice. The rights of Cunningham then were either to affirm the sale to Thorn, and claim the benefit of the proceeds thereof, or to disaffirm the act of the agent and claim from him the value of the land which he had thus placed beyond the reach of his principal. That value had been previously fixed by the parties themselves at six hundred dollars and the decree of the court for that amount was therefore just and proper. Had the defendant delivered up the note to be cancelled on the trial, a deduction for that amount would have been proper. But as he holds on upon that instrument and for ought appearing to the contrary has transferred it, it was proper to render a decree for the whole amount.
+Nor do we feel certain that the result would have been different, had the truth of the defendant’s answer been fully admitted. He would certainly in (hat case have been under no obligation to have taken any steps to secure the land at the public sale, but a court of equity would have been very reluctant to see him avail himself of the misfortunes of the complainant so far as to secure the land to himself and pocket the value thereof besides. If Cunningham had been unable to fulfil his contract, it might, under proper circumstances have been rescinded, but we see nothing therein by which we can conclude that a failure on his part to perform his whole contract, should work a forfeiture of the amount pail. As a general rule, a contract can only be rescinded by placing the other party in statu quo ; by a restoration of the amount already paid on the contract. If the defendant had felt unwilling to rescind upon such terms, he should have brought suit upon the broken contract, instead of treating it as null and void. But this he has not done. He has treated the contract as rescinded. He has the land in the same way as though it had not been sold by him, so that he has sustained no injury on that score. At the same time he has the sis hundred dollars in notes and money, which he is equitably bound to restore.
+We are therefore, fully of the opinion that the decree below should be affirmed.
