@@ -1,0 +1,24 @@
+---
+court: "Iowa Supreme Court"
+decided: "1855-06"
+citations: ["1 Iowa 86"]
+reporter: "iowa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Houston, Garnishee v. Walcott & Co."]
+source_url: "https://static.case.law/iowa/1/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8663645
+cites_cases: ["1 Doug. 890", "13 Johns. 475", "19 Johns. 39", "2 Scam. 468"]
+---
+
+# Houston v. Walcott & Co.
+
+## Majority (Isbell, J.)
+
+Isbell, J.
+"With regard to the first specification in the first assignment of error, the fact is otherwise. The title of the cause is clearly stated in the docket of the justice. As to the second, it would have been more strictly regular to have stated the amount of the demand directly, without leaving it to be ascertained by reference to the files. But we do not recognize the right of the garnishee to inquire-into the minor irregularities of the proceedings in the recovery of judgment, on which he may be summoned as garnishee. If such judgment be voidable, only on error or appeal, and not void, it is sufficient to protect the garnishee; and to this extent, he should be limited in his investigation of it. This was clearly not a void judgment.
+But, again, it is claimed that there is error, because the docket of the justice does not show a return of the execution on which appellant was summoned as garnishee. This execution was issued on the third, and judgment on the garnishment was entered on the thirteenth of March. The execution, by law, would run thirty days, and probably was not returned at the time judgment,-charging the garnishee, was rendered. But, whether returned or not, the failure to enter its return on the docket, we do not regard as such error as will entitle-the garnishee to a reversal. The third clause of section 2269 of the Code, on which this allegation of error is based, which provides that the justice shall keep a docket, in which he shall enter “ the issuing of the process and return thereof,” is directory to the justice; and. if be fails to obey its directions, tbe proper remedy is. against him, by compelling him, under tbe proper process,, to make sucb entry.
+•With reference to tbe second assignment of error, and. indeed all tbe other assignments, except tbe eighth, it is Sufficient to say, that the party appeared without objection, as to notice, answered, and submitted bis answer to the-court to pass upon it. Tbe subject matter was within tbe jurisdiction of the court, and tbe party, by his own acts,, brought himself also within its jurisdiction, if he was not properly there before. The justice was not called upon to pass upon the question of notice ; the appellant waived any irregularity of notice by so appearing and submitting, and in that manner fully authorized the court to render a judgment. In the case of Ulmer and Steinberger v. Hiatt and Harbine, decided at the last term of this court, the original notice had not been served, but the party appeared, and moved for a continuance, for want of notice, which was overruled, and judgment entered for want of an answer. It was held, that by appearing and moving for' a continuance, the defendants waived all defects in the service. See Frink, &c. v. Whicher, and Clark v. Blackwell, also decided at the last term of this court.
+This view, we think, disposes of all the errors assigned,, except the eighth. It will be observed that this eighth assignment does not allege error in the rendering of a judgment, or in the amount of it, but only that it is in the alternative. We are not called upon to determine whether the answer made justified the charging of the garnishee. True,, we find in the errors assigned in this court, an assignment that goes this length, but it. was not included in the affidavit on which the writ of error was based.. The District Court has, not passed upon it, and of it we can take no notice. This judgment, it is true, is not the judgment contemplated by the Code. By section 1871 of the Code, “ the garnishees may, at any time after answer, exonerate himself from further responsibility, by paying over to the sheriff the amount owing by him to the defendant, and by placing at the sheriff’s disposal tbe property,” &e. By section 1873, a judgment shall be rendered against Mm, “unless be prefers paying or delivering tbe same to tbe sheriff, as above provided.” If tbe garnishee refuses or neglects to make Ms election, tbe judgment should be for a sum certain and in money; but we fail to see bow tbe allowing to tbe garnishee ten days, in which to make Ms election, could prejudice Ms rights. Tbe opposite party might complain of this, if so disposed; but certainly tbe judgment ought not to be reversed, on tbe complaint of him for whose benefit it was so made.
+Judgment affirmed.
