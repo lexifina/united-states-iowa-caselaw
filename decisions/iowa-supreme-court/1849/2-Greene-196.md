@@ -1,0 +1,32 @@
+---
+court: "Iowa Supreme Court"
+decided: "1849-05"
+citations: ["2 Greene 196"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kerr v. Leighton."]
+source_url: "https://static.case.law/greene/2/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8664193
+---
+
+# Kerr v. Leighton
+
+## Majority (GeeeNE, J.)
+
+Opinion by
+GeeeNE, J.
+This was an action of right instituted by William Leighton, against Alexander Kerr. In the declaration, the plaintiff claimed right to the immediate possession of the north east quarter of section nine, and the north west quarter of section ten, in township sixty-five north, of range five west, of the fifth principal meridian. This land comprises a portion of the half •breed tract in Lee county. The cause was submitted to a jury under the general issue and a verdict returned finding the right of the property to be in the plaintiff below. He appears to have derived title to the land in question, from Antoine Leelaire. ha order to establish Leclaire’s title, and right to eonvey the premises, the partition record of the half breed reservation was admitted in evidence. Several questions were raised against the admissibility of this record; but as the' same questions were adjudicated and decided in Wright v. Marsh, Lee & Delavan, it is unnecessary to consider them here. We will therefore entertain such points onlyas were not acted upon in that case.
+1. It is urged as error that the court instructed the jury that •“ if they found from the evidence that said defendant was in possession of the land, or any portion of the land described in plaintiff’s declaration, that was sufficient to entitle the plaintiff to recover the whole, so far as the question of possession is concerned;” and also in refusing to instruct the jury that unless they find from the evidence, that at the commencement of this suit, the defendant was in possession of said north west quarter section or -claimed the same, as owner and landlord, they will find for the defendant to the extent of such north west quarter.
+The objection to the instruction given, and to the instruction'refused, contemplates that the fayo quarter sections of land described in the declaration are separate and distinct tracts, and that proving possession of one does not establish possession of the other, as a portion of the same body of land. But it does not follow that land is in separate and different parcels which is comprised in different quarters or in different sections. It may be one complete tract, one entire plantation or possession, though embraced in several sections, or even in different townships. A possession is not necessarily limited to one subdivision of land. If so limiied, no one possession could extend beyond the smallest legal subdivision; even an eighty acre lot would be regarded as separate portions of land, because embracing two distinct subdivisions as regulated by law of congress. But it is conceded by the counsel urging error, that a quarter section may be treated as one parcel of land. If a quarter section may be so regarded, why not a half section, or a whole section? In the present case the declaration claims “ a tract of land with the appurtenances,” designates two quarter sections as composing that tract, and refers to them as a property to which the plaintiff has immediate right of possession. Besides, the two quarter sections lie contiguous to each other. They are no way separated by other lands or possessions, and cannot therefore be considered separate portions. Evidence of possession then would extend to both quarter sections.
+But it is contended by counsel for the defendant in error, that it was not necessary for the demandant below to prove that the defendant was in possession of the property claimed, in order to recover. The “ act to allow and regulate the action of right,” Hem. Stat. 626, enlarges upon the common law writ of right. It supersedes the action of ejectment, (§ 20,) and furnishes within its ample provisions an adequate remedy for mere possessory rights, and also to establish actual seizin, or inheritance in lands. The first section declares, “that hereafter the proper remedy for recovering any interest in lands, tenements or hereditaments shall be by an action of right.” The fourth section, provides that “the action may be brought against any person acting as owner, landlord or tenant of the property claimed.” -It appears then that the action may be brought against persons not in possession of the premises; against him who acts as owner or landlord, and a person may act in either of these capacities without being in possession. The defendant may even be a non-resident of the county in which the property is situated. Rev. Stat. p. 527, §§ 8, 9,11.
+To enable the plaintiff to recover in this action it should appbkr by evidence or by the pleadings that the defendant acted as owner, landlord or tenant of the property claimed; and if as tenant it should appear that he was in possession of the premises at the commencement of the suit; for in this particular the action is assimilated to that of ejectment.
+Where the defendant pleads to the merits in the form provided by statute, he denies the right of the plaintiff to the land, and to damages for its detention. He virtually confesses possession by this plea, but seeks to avoid damages by denying the plaintiff’s right to the premises. As the plea joins the mise or issue upon the right of possession, or actual seizin of the property, possession need not be proved because it is not denied.
+If however the plaintiff seeks to recover more than nominal damages for withholding the premises, proof of the time and circumstances of the detention becomes essential.
+2. As another objection to the proceedings below, the plaintiff in error complains that he was not permitted to show fraud and collusion in the judgment of partition, un"der which the defendant in error deduced title. This evidence was, we think, very properly excluded. That a judgment emanating from a court of competent and general jurisdiction cannot be collaterally assailed, we have already decided in the case of Wright v. Marsh, Lee & Delavan; and sncb a judgment is removed even beyond tbe collateral imputation of fraud. Webster v. Reid, Morris, 467.
+Geo. 0. Dixon, for plaintiff in error.
+H. T. Reid, for defendant.
+Judgment affirmed.
+Ante 94.
+Ante 94.
