@@ -1,0 +1,23 @@
+---
+court: "Iowa Supreme Court"
+decided: "1855-12"
+citations: ["2 Iowa 64"]
+reporter: "iowa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hickman v. Sloan."]
+source_url: "https://static.case.law/iowa/2/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2268282
+cites_cases: ["5 Hill, 476", "6 Hill, 566"]
+---
+
+# Hickman v. Sloan
+
+## Majority (Wright, 0. J.)
+
+Wright, 0. J.
+No question has been raised as to tbe right of plaintiff to sue tbe maker and indorser, in tbe same action, on this instrument. Neither has tbe right of Means to take issue upon tbe answer of Sloan, been questioned, by either party in tbe argument. And notwithstanding, plaintiff failed to reply to tbe affirmative matter contained in Sloan’s answer, tbe case has been submitted without reference to tbe effect of such failure. We shall, therefore, pass upon tbe case, without intimating an opinion on these various questions, contenting ourselves with disposing of tbe errors assigned, upon the issues, as tbe parties have made them.
+Tbe first and principal inquiry is, was Means a competent witness for plaintiff? We clearly think not. Without inquiring bow far tbe negotiablity, or non-negotiability, of this note, might affect bis competency, we bold, tbat under tbe issue made in tbe case, be should have been excluded. It is quite manifest, tbat the contest was between tbe maker and indorser, and not between tbe maker and assignee. Hickman, indeed, seems to have been an indifferent spectator of the controversy. He bad taken no issue on Sloan’s answer. Means bad, however, and had thus, in effect, become the plaintiff. Tbe judgment rendered, would be conclusive as to tbe consideration of the note, and. could not be afterwards questioned by Means. It is true, that while Sloan might be discharged, plaintiff could take bis judgment against Means; but Means, by tbe pleadings and record, was so far a party, that be could not after such discharge make Sloan liable. Tbe judgment would be evidence as to tbe failure of consideration, in any suit Means might bring against Sloan, on tbe note. Tbe only issue in tbe case was, whether tbe work had, or had not, been completed ? whether the consideration had, or had not, failed ? Who was the party to that issue ? Who was to gain or lose by the result of that issue ? No one, certainly, more than Means. Though called by plaintiff, be was, in effect, called by himself, to testify for himself, not to fix his own liability as indorser (for that was not disputed), but to show that Sloan did owe him tbe amount of tbe note. He was beyond question a party to tbe issue, and so treated; directly ánd legally interested in tbe matter in litigation; by tbe result be was to gain or lose; the verdict, or the issue so made, could be used against him; and, indeed, it would be difficult to conceive of a case, where a witness would, on the ground of interest, be more clearly incompetent. If be was not incompetent, then, in truth, has a legal interest ceased to disqualify a witness from testifying in his own case, against the objection of his adversary ? Safford v. Lawrence, 6 Hill, 566; 3 Stark. Ev. 1063; 1 Greenleaf’s Ev. § 329 et seq.; Van Nuys v. Terhune, 3 John. Cases, 82. It is believed, that those cases which apparently establish a contrary rule (such as that of The Farmers' Bank of Michigan v. Griffiths, 5 Hill, 476), are predicated upon tbe ground, that the assignor, not being a party to tbe suit, would not be concluded, by any judgment that might be rendered; and, others, again, upon tbe rule that the note being assigned' Before due, the maker could not object to testimony to sustain a recovery in favor of the assignee, who had taken the .'paper on the faith of his signature. But where the note is -assigned after due, as in this ease, and the assignee made a ;party, and becomes the substantial plaintiff in the issue, if ■nny case can be found that holds him to Be a competent witness, to prove that the note was given for a good consideration, or'that the consideration had not failed, while we should give to it such weight as was due to the tribunal from which it •might emanate, yet wé'-should hesitate long, before we would give it sanction as an authority, and should do so, •even, in the -language-of Judge Story, “ without respect or ’veneration^
+It is objected, that the court-erred in instructing the jury «s to the acceptance of the work by plaintiff. The testimony is not before us, and as we can conceive of a state of proof, in which the instruction might be correct, we cannot .•say that in this .there was error.
+Judgment reversed.
