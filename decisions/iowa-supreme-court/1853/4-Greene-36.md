@@ -1,0 +1,31 @@
+---
+court: "Iowa Supreme Court"
+decided: "1853-06"
+citations: ["4 Greene 36"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hawley v. Warde."]
+source_url: "https://static.case.law/greene/4/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266802
+---
+
+# Hawley v. Warde
+
+## Majority (Williams, C. J.)
+
+Opinion by
+Williams, C. J.
+Cyrus Hawley instituted Ms action against J. C. B. Warde for $624 91, and claimed that for this amount ho was entitled to judgment, and also a mechanics’ lien by virtue of the provision of the Code, p. 154, § 981, which is as follows :
+‘‘ Every person who by virtue of a contract with the owner of a piece of land, performs work or furnishes material for any building, and which material is used in the erection or reparation thereof, has a lien upon the lands, including the building with its appurtenances, for the amount due him for work or material, against all persons except incumbrancers by judgment rendered, and-by instrument recorded, before the commencement of the work or tbe furnishing of the material.”
+Plaintiff obtained judgment in the district court for §624 91, the sum claimed as due to him from the defendant. The court however decided that he was not entitled to a mechanics’ lien for more than §324 91. Eor this amount & lien was allowed under the statute, as prayed for, on lots one and two in block forty in tbe city of Muscatine, with the house for the building of which the materials had been furnished. The cause was tried at the May term, 1853. The plaintiff appeals from the decision of the district court refusing to adjudge him a mechanics’ lien for the whole amount of the indebtedness found in his favor.
+The bill of exceptions presents but one question upon the ruling of tbe court below. Tbe facts and the judgment in tbe case appear in the bill of exceptions, and are as follows : “ The trial by jury being waived by the parties, and the cause submitted to the court, the following facts of testimony in the case are found : ‘That the plaintiff, under written contract with defendant, agreed to furnish a large quantity of bricks to be used in the erection of the house described in plaintiff’s petition, which were of the value of §724 91; that the sum of §50 00 had been paid to plaintiff, leaving a balance of §674 91; that defendant Warde bad ^xecuted Ms promissory note to plaintiff for the sum of §350, and that the plaintiff endorsed this note in blank, and left it with the house of Hatch & Co., with whom he dealt; that receipts were passed between Warde and plaintiff; that after the note had been in the hands of Hatch for two or three days, the plaintiff, upon consultation with his attorney, took up the note from Hatch and carried it back to Warde, to whom it was delivered, and who then gave back a receipt to plaintiff, and also a note for seven thousand bricks, and expressed his desire that the claim of plaintiff should operate as a mechanics’ lien upon his house.’ ”
+Thereupon the court below decreed that “ although the taking of the note for the work and labor done, or materials furnished for the erection of the house, would not of itself be a waiver of the mechanics’ lien, the negotiation of that note, or an attempt to do so by endorsing it and throwing it into the money market, though he should fail for want of purchasers, would amount to such waiver. The intention to abandon the security given by the law is as complete as if he had succeeded in finding buyers, and the waiver is complete.” The court also decided that as plaintiff’ had thus parted with his lien, he could not by any agreement between him and the defendant revive it. The error assigned here is as to this ruling of the district court.
+We find two objections to the adjudication of this case by the district court as presented by the bill of exceptions. In the first place the facts of the endorsement of the note and leaving it with Hatch & Co., do not show that Hawley had parted with it by actually negotiating it. The bill of exceptions shows that it had been “ left with Hatch & Co., for two or three days with a blank endorsement on it,” and then taken back, and returned to Warde, and a receipt taken, &c. It does not appear from the evidence what was the purpose for which the note was left with Hatch & Co., but it is manifest that it was not actually disposed of, so as to pass from the ownership or control of Hawley, and that he returned it to Warde who lifted it, and thereby left Hawley to his lien on the original contract. To give this the effect of a complete and legal transfer of the note so as to visit the consequences thereof on the plaintiff, by taking from him the benefit of his lien, was, we think, not justifiable. It was at most nothing more than an attempt to render the note available for some purpose — what that was, does not appear in evidence. For aught we know it might have been temporarily deposited to operate collaterally in some business transaction with Hatch & Co. But it is enough that the evidence shows that he did not actually part with it.
+8. Whieher, for appellant.
+W. G. Woodward and H. O'Cornier, for appellee.
+Also, we think, that the court below went too far, when it held that a mere attempt to negotiate a note which had. been given upon a contract for materials used in the erection of a building, operated as a waiver of the right of the party to a mechanics’ lien. The court have held that when the contracting party takes other and different security for his debt, or when he transfers the debt for any consideration to another person, the lien given by the statute will be lost. We are not informed of any decision made heretofore, which has gone so far as to declare the lien waived by a mere offer or attempt to negotiate or part with a note of this kind.
+This doctrine is sustained by Graham, v. Holt, 4 B. Monroe, 61, cited in 2 U. S. Equity Digest, 232, § 25.
+There is therefore error in the judgment. It is ordered that plaintiff have a mechanics’ lien on the property described in his petition for the sum of $614 91 and costs, as prayed for in the petition.
+Judgment reversed.
