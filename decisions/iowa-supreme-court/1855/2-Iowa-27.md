@@ -1,0 +1,26 @@
+---
+court: "Iowa Supreme Court"
+decided: "1855-12"
+citations: ["2 Iowa 27"]
+reporter: "iowa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Christian Church at Pella v. Scholte."]
+source_url: "https://static.case.law/iowa/2/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2268338
+cites_cases: ["2 Wheat. 582", "4 Wheat. 1", "6 Pet. 435", "9 Cranch, 292"]
+---
+
+# Christian Church v. Scholte
+
+## Majority (Woodward, J.)
+
+Woodward, J.
+— The appellee, being tbe owner of the land on which the town of Pella, in Marion county, is situate, laid the same out into a town, caused a plot or map to be made and certified, and on the fifth of June, 1848, acknowledged it, and caused it to be recorded under the act of January, 1889. Rev. Stat. 608. On this plot, certain squares were marked or denominated respectively thus: East Market square, West Market square, Garden square, and Church square. The latter consisted of a portion, only, of one of the usual squares or blocks of the town, it being about one-fourth of it. The plaintiff alleges, that the defendant has taken possession of this square, and that he has permitted one Huntsman to take possession of part of the same, who is building a dwelling-house thereon.
+The petition "avers, that the defendant caused this parcel to be marked Church square, “ thereby dedicating and granting it to the said Christian church at Pella.” And, again: it avers, that he granted and dedicated to the said Christian church, “ a certain parcel of land, known and designated as ‘ Church square,’ on the plot of the said town of Pella, by setting apart and designating said parcel of land as Church square, on the plot of said town.” The petition further alleges, that on the 5th of June, 1848, there existed an association, or organization, of the members of the said Christian church, at said town of Pella, and avers an incorporation on the 2d December, 1849. The defendant demurs to the petition. It may lead to brevity, to look first at the fourth cause of demurrer, which is: that there is no showing that the pretended grant, or dedication, was made to the plaintiffs. The petition avers this to have been done by the designation of the parcel, as Church square. The case rests on the statute of 1839, before cited. The designation on the' map is general; it may apply to one church or another, or to church purposes generally. Rut what is there, to apply it to this particular church ? It is true, that was the only one there; but we cannot, for this reason, say that the donor intended to exclude a Presbyterian, or Methodist, or other church, which might arise. There is no doubt but that a donor might thus grant to a specific body, but he has not in this case. "When the precise object of the dedication is not defined, but the design is yet for the public use, according to its nature, the aboye act, in section 5, seems to mean that it shall be held in the corporate name, in trust for the purposes intended.
+The question now arises, is the plaintiff’s petition in law, or in equity ? This is to be determined by the prayer and conclusion. They say they have a valid, subsisting interest in the property; that they have a right to the immediate possession thereof, and to the ownership in fee simple; and they pray, that they may receive the immediate possession of the said square, and one hundred dollars damages, for the detention thereof. Now, this is an action at law, and we have seen that the plaintiffs have not a legal title; and neither have they, as yet, an exclusive right of any kind. How, then, can they recover ? The demurrer must prevail, which avers that there is no showing that the dedication was to the plaintiffs, for the petition does not assert absolutely, but avers that it was granted them, by thus designating it on the plot, whilst the legal conclusion from this designation, contradicts their inference, that it was dedicated to them.
+The plaintiffs cannot recover in this action, and this is all we are called upon, by the case, to decide.
+It is desired that we should go further, and consider other questions which arise; but the questions are of too grave a nature for extra-judicial decision. Two or three queries may, however, be suggested, which' may save the parties much trouble and litigation; as, whether such dedications, and especially those to charitable purposes, require a grantee? whether the grantor can revoke such dedications ? whether the trust is not in the body corporate for execution ? whether any one church has a right in the property dedicated, uutil such right is appointed to them, by the proper person or body ? See authorities cited by plaintiffs’ counsel: 6 Pet. 435; 2 Strange, 2004; 2 Ib. 256, 565; 6 Ham. 129; 1 How. (Miss.) 380; 10 Ib. 712; 12 Georgia, 239; The Town of Pawlet v. Clark et al., 9 Cranch, 292; McConnell v. The Trustees of the Town of Lexington, 2 Wheat. 582; The Trustees of the Philadelphia Baptist Association et al. v. Hart's Executors, 4 Wheat. 1.
+The judgment of the District Court will be affirmed, -and the petition is dismissed.
+"Wri<}e:t,-C. X, having "been of counsel, took no part in the decision of tbis «asm
