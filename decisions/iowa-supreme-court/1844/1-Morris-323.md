@@ -1,0 +1,28 @@
+---
+court: "Iowa Supreme Court"
+decided: "1844-01"
+citations: ["1 Morris 323"]
+reporter: "morris"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Fulwider vs. Joseph Wilford, Jur."]
+source_url: "https://static.case.law/morris/1/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6673659
+cites_cases: ["1 Johns. 44", "10 Johns. 135", "8 Johns. 149"]
+---
+
+# Fulwider v. Wilford
+
+## Majority (Mason, Chief Justice.)
+
+Per Curiam,
+Mason, Chief Justice.
+The actual occupancy of the land by Wilford is notice to all the world of his interest there; Daniels vs. Davison, 16 Vesey 252; 4 Kent, 179. Independent then, of actual notice to Fulwider, he stands in the place of Barrett, possessing no more rights and subject to the same liabilities. Barrett & Wilford entered into a contract by which the latter was to pay a certain amount of money at certain specified times, and the former was to execute a sufficient conveyance for the land in controversy when the money Was so paid. But if the money was not so paid, Barrett reserved to himself the right to affirm or rescind the contract of sale.
+Under these circumstances it is plausibly contended, that Barret should have notified Wilford of his election to disaffirm the contract before he could institute a suit for the purpose of putting him out of possession. But it will not become necessary to decide that question now.
+The promise on the part of Wilford, as above stated, was embodied in five promissory notes. These were delivered to Barrett, and Wilford was put into possession of the land. I feel satisfied that Barrett or his assignee ought not to be allowed to maintain his action of right, before he had not only given Wilford notice of his election, but had also surrendered up the promissory notes aforesaid, or at least showed a readiness to surrender them. Until that time, Wilford could notknow whether the land was his or not. Barrett could only be permitted to rescind the contract by showing Wilford that his notes had not been negotiated, and that he might therefore safely surrender the land. The law will not allow a party to be sued while he has not the means of knowing that he is liable, or at least while the means of that knowledge are exclusively in the possession of the opposite party. Belore Wilford was dispossessed of his land, he ought to have been shown that he was not also liable on his notes.
+The case of Maynard’s lessee vs. Cable, Wright’s Ohio Reports, 18, cited by defendant’s counsel, seems to sustain this view of the case. There, the parties had exchanged lands, with an agreement to execute deeds of conveyance within six months. At the end of that time, Cable being unable to comply with bis contract, Maynard instituted his action of ejectment, without offering to restore the land he had received in exchange or giving any notice of the rescisión of the contract. The court in that case, say : “ The entry of the defendant was not tortious but lawful. His covenant to convey is outstanding and no means have been taken by restoring the consideration or otherwise to rescind or annul the contract. The filing the declaration in ejectment does not in our opinion rescind the contract. In this class of cases some steps should be taken to determine the lawful possession of the defendant, some demand or notice should be :-ivsn to ’.ho <e.o«at before suit is brought, and so are the authorities.”
+The present seems to me entirety a parallel case, Instead of hit'" exchange of lands as in the case cited, bonds were excim ged for negotiable promissory notes, accompanied zy an o?;0; of possession. The notes were quite as available .prcoisriy ?•? ’.?.ad ⅛⅛;|, and the necessity of restoring them before com»»»;; quite as great as in the case from the Ohio Report':
+The authorities cited by the count** for th- [ .⅞ "!: ,i in error on this point, do not sustain the position they ¾⅜!-- ? Pom the English Common Law are most nearly re r om: oí : 7 ! e been able to examine. In the case of Hawden »«, : 17 E. C. L. 8, it was decided that where a bill of exchñrere ⅞⅝? . ... ds, an action might be brought for goods sold wre , : re .morere ¡-re hi;I ,jf exchange at the trial, such bill then lying pi. r o- Ore ⅛>⅞-⅛ .T ine plaintiff’s agent. The same case in a differs*:¡ hós, " ih i; : surne decision is found in 17 E. C. L. 151. The ¡rerereo in these casus appears to be, to give judgment for the p ⅛ore re ,: timo Vi e defendant may pay the money into court and movr ora Poy re dm execution, until the bills are delivered up. Unless ⅜ % ⅛-'-⅜⅝; ore to be regarded as founded upon peculiar grounds, the*’ jarir-ndy reo re,: followed by the courts in the United States generally, fre, orere-b rufo here is that the plaintiff may sue for the considerate o' a re-re re- red hut they must in that case be surrendered up on the ¡ro í, 1 Johns. 44; 8 Johns. 149; 10 Johns. 135; 8 Cowen 77.
+But howevar sucha question may ho ⅛7⅝-:. it reoreit hardly to effect this case. To sue for the consideration re-ore arkreyfrom the sale of property is very different from an u..líbre to obt-rfo r repossession of the property itself. The one is founded or on an referre-re nr, the other upon a rescisión of the contract of sale, '-'o pnrrem -sbcui*'' be permitted to rescind a contract without at least a nrrebrere rcrehrer, .hit advantages he has derived from that contract.
+It will not be necessary therefore >r, rere,™ ire ⅛« ether points in the case. I am of the opinion that the ⅛: orére bekre yre: correct and that the judgment should bq affirmed.
