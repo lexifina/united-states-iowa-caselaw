@@ -1,7 +1,8 @@
 ---
 court: "Iowa Supreme Court"
 decided: "1850-07"
-citations: ["2 Greene 574", "2 Greene 568"]
+decided_precision: "month"
+citations: ["2 Greene 574"]
 reporter: "greene"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
