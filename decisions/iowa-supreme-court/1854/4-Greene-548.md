@@ -1,0 +1,27 @@
+---
+court: "Iowa Supreme Court"
+decided: "1854"
+citations: ["4 Greene 548"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ogilvie et al. v. Washburn et al."]
+source_url: "https://static.case.law/greene/4/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266863
+---
+
+# Ogilvie v. Washburn
+
+## Majority (Greene, J.)
+
+Opinion by
+Greene, J.
+This suit was founded on a promissory note, in which Z. "Washburn & Son, J. WOohick and W. I). Ament, jointly and severally promised to pay five hundred and eighty-seven dollars and fifty cents to 0. L. Phelps or order. The note was indorsed in blank by 0. L. Phelps, and this suit was instituted by Adam Ogilvie and William St. John, as holders of the note. The petition was filed in the usual form, and at the appearance term of the court an amendment was filed to the petition, by which one of the plaintiffs swore that the matters set forth in the petition were true, and that as deponent verily believed, one of the defendants, Oohick, had disposed of his property with intent to defraud his creditors, and therefore prayed that a writ of attachment might be issued against the said Cohick. The attachment was issued accordingly. Cohick appeared and moved to quash the writ. The fourth reason assigned for this motion is, that <• the petition and notice .are against Z. Washburn & Son, J. W. Cohick and W. D. Ament, jointly, for a debt due by them jointly, and the attachment is against J. W. Cohick alone; and it is not stated that the said Washburn & Son and the said W. D* Ament are insolvent, nor non-residents of the State, nor about to dispose of their property, or that the plaintiffs were in danger of losing their demand unless attachment was issued against Cohick.” On this reason the court ■granted the motion, and decided, that “ the plaintiff could not sue his writ of attachment against only one of the defendants.”
+We think the attachment proceeding was very properly set aside, but we think the plaintiffs might have made out a case which would have justified an attachment against only one of the defendants. If the petition had shown that the other defendants were insolvent, or non-residents of the State, or that they had absconded, so that the ordinary process could not bb served upon them, the attachment against Cohick might have been justified. Biit as no such case is made out by the petition, as there is nothing to show that the other makers were not abundantly solvent and able to pay the note, it follows that a prima facie case was not made out for the attachment.
+The auxiliary process of attachment was instituted to ■secure creditors against the efforts of debtors' to defraud ■them, and it can only be justified where it is apparent that the creditor is likely to lose his debt, or be seriously delayed in its collection unless that process is awarded. When, ■ as in this case, the liability is joint' and several, and when there are three different parties responsible for the payment, one or even two of those parties may have placed himself in a position that would justify an attachment against Lim or them, on an indebtedness for which he or they were alone liable, and still if the remaining party is solvent and able to pay the debt, an attachment could not be justified. If the remaining solvent debtor bad sufficient to pay the debt, and had done nothing to justify the belief that he was about to dispose of his property with intent to defraud his creditors, there could be no necessity for the attachment:
+The facts necessary to justify an attachment should exist as to all the debtors to a joint and several obligation, orif the facts do not apply to all, it should appear that the remaining debtors are insolvent before there can be occasion for that process. It should appear, jprima facie, that the creditor is in some danger of losing his demand, for some of the reasons set forth in the attachment law, before the spirit and object of that law can be made applicable to the case. It follows, then, that the court below ruled correctly, in reference to the attachment. After the court decided this motion, the ¿olaintiffs moved to amend the original petition by striking out the names of all the defendants, with the exception of Cohick’s name, but this was refused. If this motion was made with the view of having the attachment reinstated, it was very properly rejected. The petition with the note annexed would still show that the suit was commenced on a joint and several instrument, and the same reason would apply why an attachment should not be issued against one of the debtors alone, unless the others wore shown to be insolvent, or subject to the attachment process. True, any one of them might have been sued under the Code, § § 1681 1682, but it doc^ not follow that an attachment might bo issued ■ gainst him alone, unless apparent that the others were insolvent or in failing circumstances.
+The bill of exceptions does not show expressly the object of the proposed amendment, but we must infer that it was for the purpose of having the attachment against Cohicks properly reinstated, and with that object we think the court did not exceed a sound discretion in overruling the motion to amend.
+Henry O'Connor, for appellants.
+J. Scott Dichman and S. Whicher for appellee.
+Judgment affirmed.
