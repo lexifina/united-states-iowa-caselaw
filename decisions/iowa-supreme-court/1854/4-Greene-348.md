@@ -1,0 +1,26 @@
+---
+court: "Iowa Supreme Court"
+decided: "1854"
+citations: ["4 Greene 348"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee County v. Nelson."]
+source_url: "https://static.case.law/greene/4/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266762
+---
+
+# Lee County v. Nelson
+
+## Majority (Greene, J.)
+
+Opinion hy
+Greene, J.
+The proceedings in this case were commenced before the county court of Lee county, by Catharine Nelson, by presenting her accounts for boarding and keeping paupers. The accounts appear to hare been allowed by the township trustees, who had ordered the paupers to be boarded. The accounts were rejected by the county court. Within thirty days, Catharine Nelson presented her petition and bond to the county court, for an appeal to the district court; upon these the county judge indorsed “not accepted or filed;” and the appeal was not allowed.
+At the next term of the district court of Lee county,said Nelson filed her petition, praying that court to authorize an appeal. The appeal was authorized accordingly, and the clerk of the county court, in obedience to the order from the district court, sent up a transcript of the records.
+In the district court, the prosecuting attorney moved to dismiss the appeal. 1. On the ground that no appeal lies from the acts of the county judge, and that the county court had no jurisdiction over the subject matter of this suit. This motion was overruled by the district court. It is now avowed, in behalf of Lee county, that this ruling is erroneous. It is claimed that the county judge is one thing, and that the county court is another and different thing; that the county judge “is the accounting officer, and general agent of the county,” &c., and that the county-court is not; that the county judge could have audited and allowed the account in this case, but that the county court could not; that, therefore, the county court had no jurisdiction over the account, and that the appeal should be dismissed. Such a distinction is not, we think, justified by the Code. The “county judge” and the “ county court,” are made up of one and the same functionary, and the powers conferred upon one are indiscriminately blended with the other. As “ county judge,” he is “ invested with the usual powers and jurisdiction of county commissioners and of judge of probate.” § § 105 and 106, specify many duties to be performed and powers to be executed by the “ county judge;” § 129 enumerates some additional powers to be exercised by the “ county court.” But all the powers conferred by § § 105 and 106 may be exercised by the county court. Indeed, • the acknowledged jurisdiction of this court is mostly derived from these two sections. The powers conferred by § 129 are comparatively meager; imparting to the court but few of its prevailing and distinctive attributes. The powers conferred upon the county judge are indiscriminately exercised by the county court. The county judge and the county court are one and the same thing. All the powers and duties devolving upon the one, may be exercised by the other. This is obviously contemplated by the Code, in declaring that “The county court shall be considered in law as always open.” § 125. The 5th, 6th and 'Tth divisions of § 106, direct the “ county judge” about keeping “ min ute books,” “ road book,” “ separate books for the probate business,” and the “ warrant book.” § 128 makes these very books “ constitute the records of the county.” The only books that are to be kept separate from the other business of the county, are the probate rcords; § 139. By other sections the county court is authorized ' in various ways to act ministerially. All official acts of the county judge, then, are acts of the county court, whether judicial or ministerial; and so far as jurisdiction goes, county judge and county court are convertible terms. All decrees and decisions made by the county judge, are in fact and legal effect, the decisions and decrees of the county court; and from all such decisions both ministerial and judicial, an appeal is allowed .under § 131; and when a party entitled to an appeal fails, without fault on his part, he may apply to the district court, which may authorize the appeal to be taken ; § 134.
+J. M. Beck, for appellant.
+Rankin and Love, for appellee.
+In this case, the county court did not allow the appeal, althongh due diligence had been used by the appellant; consequently the district court was authorized to allow the appeal, if there was a decree or decision of the county court to appeal from. The record entry from the county court shows, that on the 14th day of April, 1852, “ a bill was presented to the court for allowance, and filed in favor of said Catharine Nelson, for, &c., and amounting to the sum of one hundred dollars; and the court being advised in the premises, orders that áaid bill be rejected.” Here then is a decision made by the county court, and takenfrom the county judge’s “ minute book,” which we have seen, constitutes a part of the records of the county court. It is, then, a decision of the county court, upon a subject matter conceded to be within in its jurisdiction, and from which an appeal is authorized.
+Judgment affirmed.
