@@ -1,0 +1,25 @@
+---
+court: "Iowa Supreme Court"
+decided: "1852-05"
+citations: ["3 Greene 433"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Armstrong et al. v. Scott et al."]
+source_url: "https://static.case.law/greene/3/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2264995
+---
+
+# Armstrong v. Scott
+
+## Majority (Kinney, J.)
+
+Opinion by
+Kinney, J.
+Bill filed by Scott and Yeates against Armstrong and Noble et. al., to enjoin them from selling a part of lot number fifty-six, in the city of Burlington. Injunction issued, and by decree of the court made perpetual. Having carefully investigated all the facts in the ease, as disclosed by the testimony-of the respective witnesses, and finding that they fully sustain the decree, we will briefly notice two questions of law raised in the argument. 1st. The bill calls for a sworn answer from some of the defendants, but expressly waives an answer, under oath, from Armstrong and A. O. David. Armstrong files a sworn answer, and it is now contended that inasmuch as such answer was waived by the complainants, that it cannot he received as evidence. We do not so understand the law. The practice of waiving an answer under oath originated in the state of New York, by virtue of an express provision in the statute — vide. N. Y. R. S., p. 175, £ 44. This provision, Chancellor "Walworth says, was incorporated in the revis'ed statutes at his suggestion, and it introduced a new principle into the system of equity pleading. It was intended to leave it optional with the complainant to compel a discovery in aid of the suit, or to waive the oath of the defendant if the complainant was unwilling to rely upon his honesty, and chose to establish liis claim by other evidence. Burrus v. Looker, 4 Paige, 227. Here is the origin of that practice which, we believe, has to some extent been adopted in our state. It is purely statutory — an innovation upon-long established chancery pleadings, and must be exclusively confined to those states that have adopted it by legislative enactment. It is not necessary, at this late period, to adduce reasons in support of the practice permitting the defendant to answer under oath, and such answer to be taken as testimony. We consider it a valuable feature in equity proceeding, and one that cannot be dispensed with without operating oppressively upon chancery defendants. Its antiquity, constituting as it does, one of the .distinctive features between common law and chancery practice; the protection which it affords to those from whom discovery is sought-; the only opportunity which it gives to purge the conscience; the continued acquiescence in such a practice, only interrupted by statute, are strong arguments in favor of its observance. We -then lay down, as tbe settled doctrine, that a complainant cannot deprive a respondent from answering under oath. That notwithstanding such oath may ho waived in the bill, yet he has a right to file a sworn answer, and such answer will he entitled to the same weight as evidence, as though the complainant .called for an answer under oath. But admitting the answer of Armstrong as testimony, there is still sufficient evidence to justify th-o decree.
+2d. It was by virtue of a deed of trust that .the property was offered'for sale. This sale, as before observed, was enjoined, an.d by decree of tho court made perpetual. The deed of trust provides that the trustee shall first give thirty days notice, &e., in some newspaper published in the city of Burlington. But one publication was made, and the question is, whether the trustee wms not hound to continue the publication in each weekly number of the paper until the thirty days had expired. This‘wo believe to havo been the intention of the parties. The notice should not only have been published thirty days before the day of sale, hut such public..ti.on should have hem continued. .Suppose .the notice had only appeared in one copy of the paper, and «.oppressed in all the other issues, would it have been, hi contemplation of law, a newspaper notice? and yet a notice thirty days prior to the time of sale might appear to have been given. The object of all such notices is to advise the public, and when the law requires notice to be published for a certain number of weeks before sale shall take place, Jt docs not merely mean that after the first publication the officer shall be permitted to sell, if the necesssary time ha® intervened. It is as indispensable that the publication, «hou'id be continued, as that the required time should elapse.
+David Borer, for appellant.
+R. W. Starr and J. C. Rail,, for appellee.
+The same construction .should be given to this deed of trust. As there was hut o.ne publication, and no more, the trustee had no more pow£r to-sell than if he had not ¡published at all. Thirty days should have elapsed between, the first and last publication, as .upon .giving ibis nolle® depended his power to sell.
+Decree affirmed,.
