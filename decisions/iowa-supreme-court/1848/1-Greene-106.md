@@ -1,0 +1,34 @@
+---
+court: "Iowa Supreme Court"
+decided: "1848-01"
+citations: ["1 Greene 106"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warren v. The State."]
+source_url: "https://static.case.law/greene/1/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1872490
+cites_cases: ["1 Mass. 6", "14 John., 186", "3 John., 255", "4 John., 425", "5 John., 248", "5 N. H., 203", "5 N. H., 204", "7 Wend., 331", "9 Conn., 527"]
+---
+
+# Warren v. State
+
+## Majority (Greene, J.)
+
+Opinion by
+Greene, J.
+The plaintiff in error was found guilty in the court below on an indictment for larcexxy. A motion was made for a new trial, and overruled. We learn fx’om the bill of exceptions that testimoxxy was adduced on the txúal, px’oviixg that about’ eighteen or nineteen months after B. S. Wilcox missed a number of traps, a boat-hook, &e., Shook, the prosecuting witness, proceeded with the officer', and a search warrant, to' the house of Warren, and, after a slight seax’di, repaired to a flax stack, five or six x’ods from the house; when one Fulk said to the officer, that “ he was an old miner, and could strike a load in three licks.'” Though the ground was covered with snow, Shook showed Fulk where to dig; and he commenced accordingly, and, with the third blow of the mattock struck the lid of a box, identified as the property of Warren, which contained a portion of the stolen traps. They then went to the prisoner’s blacksmith, shop, and there found the boat-hook with the handle sawed' off, on the' shop floor, where it had been laying about for several months. It also appears, that Shook had been living with Warren, and that they had some difficulty a short time before the prosecution commenced. The court instructed the jury, though requested to give the contrary charge, that the fact of finding the traps in the manner described was prima facie exidence that Warren had stolen them. To this instruction of the court the plaintiff took exception, and now urges the objection under liis first two errors assigned.
+This charge to the jury was manifestly erroneous. The long space of time which elapsed from the missing to the discovery of the goods, the place, together with the peculiar circumstances under which they were found, concur in removing the presumption of guilt in the prisoner. Such a presumption is only created when the goods "are found in the possession of a person, within a short period after the larceny. The lapse of three months after the articles were stolen has been recognized as sufficient to rebut the presumption of guilt, in a person in whose possession the goods were found; but it has been otherwise determined.after the expiration of only two months, when connected with evidence of concealment, and other suspicious circumstances. 1 Cowen and Hill’s Notes, 425, 426, and the references.
+After the lapse of sufficient time for the goods to change hands, and when they are of a portable nature, it would often be attended with serious oppression and injustice, to require a person to account for the possession. Still more serious would be the consequences of taking a prisoner’s guilt for granted, after so remote á period, and under the circumstances which are presented in this case.'
+The place where the articles, were found the very suspicious deportment of one or two of those who participated in the finding, leave ample room to presume that others may have been more intimately connected with the larceny than the prisoner. In relation to the place, &c., of finding stolen goods, see Cowen and Hill’s Notes, 426, 427.
+By request of counsel, we will briefly notice the other errors assigned. The third avers that the court erred in overruling the motion for a new trial. As the charge to the jury was so manifestly improper, the motion fora new trial should have been granted. • The only other reason assigned for a new trial, is that of newly-discovered evidence. This is a matter usually confined to the sound discretion of the district judge; because the application is often attended with eircumstancees which are not made apparent to the appellate court. The affidavit of the prisoner alone, setting forth the newly-dicovered facts, and by whom he can prove them; taken in connection with other concurring appearances, and the applicability of the newly-discovered .evidence towards affecting a material change in the verdict, has been held sufficient to justify a new trial, without the affidavit of the witness by whom the facts are expected to be proven; but the requirement of such an affidavit we regard as the safest practice, Only in cases where the grounds for a new trial may be determined by the established principles of law, or upon facts appearing of record, is it clearly within the province of this court to revise and correct the proceedings below.
+It may be well to observe, that even in cases where the question of a new trial is within the discretion of the district court, the law contemplates a full hearing, and fair trial to all; and, if from any cause, a party having used due diligence, has not been able to present the substantial merits of his ease to the jury, a rehearing should be allowed.
+The verdict is objected to by the fourth assignment of error, because it is for the aggregate value of the articles stolen. In this we can see no error.
+The fifth error assigned is, that part of the property averred to have been stolen, a rac-coon, is not the subject of larceny. The principle is well settled, that, taking from another’s pos-i session an animal, feres natures, or of a base nature, in contemplation of law, will not render a person liable for larceny; though the right of the owner would -be protected by a civil action. As this principle applies, by common law, to monkeys, bears, foxes, &e., it will evidently apply to coons. 5 N. H., 204.
+But, for this reason alone, the judgment of the district court would not be disturbed, when the indictment avers the stealing of other articles, properly the subject.of larceny; and when it appears by the transcript that .the nature of the offence could not have been, reduced, nor the fine materially lessened by excluding the objectionable article.'
+The last error assigned, is, that the proper oath was not administered to the jury. The transcript of the record states, that the jury were sworn the truth to speak on the issue joined, &c. It is hardly necessary to state, that such an oath is not recognized by the statute. See Rev. Stat., 298.
+The judgment is reversed, and the cause remanded to the district court of Clinton county, for a new trial.
+Judgment reversed.
+Bight v. Wills, 7 B, Monroe, 122.
+Cook v. U. S., ante 56 ; Barzelton v. Jenkins, Morris, 15.
