@@ -1,0 +1,27 @@
+---
+court: "Iowa Supreme Court"
+decided: "1853-06"
+citations: ["4 Greene 60"]
+reporter: "greene"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Twiford v. Alamakee County."]
+source_url: "https://static.case.law/greene/4/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2266823
+---
+
+# Twiford v. Alamakee County
+
+## Majority (Kinney, J.)
+
+Opinion by
+Kinney, J.
+At a district court held at Waukon, in Alamakee county, the plaintiff moved the court to adjourn from that place to-the town of Columbus, for the reason, as alleged in the motion, that it was the only true and legal county seat of Alamakee county. In support of this motion a large amount of record evidence was offered which it is unnecessary to notice, to obtain a distinct view of the case. The court overruled the motion. Plaintiff appeals. It is now contended that there was a contract between T. B. Twiford, as the proprietor of the town of Columbus, where the county seat was first located, and the commissioners of the county, by which Twiford, in consideration of what he had done as proprietor, acquired a vested right which, by virtue of his contract, secured to him the county seat permanently at the town of Columbus. That an act re-locating the county seat was an invasion of this right, and if permitted would impair the obligation of the contract between him and the county commissioners. In support of this proposition we are referred to the act entitled “ an act to locate the county seat of Alamakee county.” It provides that “ the point securing the highest number of votes shall be and remain the permanent seat of justice of said county of Alamakee ; providing that the owner or owners of such town or point shall, within ten days after the result of said election has been declared, make and execute to the board of county commissioners of said county a satisfactory and sufficient deed for at least two acres of land in said town or at said point, for the use and .accommodation of the public building of said county.”
+In pursuance of this act the county seat was located at Columbus, and the plaintiff, as proprietor, executed to the connty commissioners, for the county, a deed to the land required in the proviso to the act.
+By an act approved January 24,1853, entitled “ an act to re-locate the connty seat of Alamakee county,” commissioners were appointed, a point selected called "Waukon, which in pursuance of the act was voted for ; and having secured a majority of the votes it was contended, and so decided by the court below, to be the county seat of Alamakee county.
+In this decision there is no error. Counties are corporate bodies. The people oí a particular county are, for some purposes, sovereign and independent. It is for a majority oi the voters to say where their county seat shall be, and when it shall be changed. They select the point with reference to their convenience for transacting county business. It is not a matter in which the state, as such, or the people of any other county, have any interest. It is true an act of the legislature is necessary as a preliminary step, but this the legislature will always pass, when applied for by a majority of the voters of the county, either for the purpose of locating or changing the county seat. If, by the terms of that act, they declare any particular point that may be selected the permanent seat of justice for the county, it does not follow that they take from the people the right to a re-location, provided a majority feel themselves discommoded by the point selected. One legislature cannot in this way tie up a subsequent one. If the succeeding legislature pass a law authorizing a vote for a re-location, they have a perfect right to do it, although the previous one declared that the' county seat should be permanent, and forever remain at-the place selected. All such acts must be subject to the will and voice of the people.
+B. M. Samuels, for appellant.
+J. Burt, for appellee.
+The location or removal of a seat of justice is an internal arrangement, a question of public policy, over which the people of a county have the exclusive control. But it is said that the plaintiff entered into a contract with the commissioners by which he deeded certain land, and the commissioners undertook, in behalf of the county in pursuance of the act of location, to stipulate that Columbus should remain the permanent seat of justice. When the plaintiff made his contract he must have known (for all are presumed to know the law,) that the legislature had no right to declare the place selected to be and forever remain the permanent county seat; and also that the commissioners had no power to enter into any such contract ; that the question was an open question, and the subject of removal liable to be agitated at any moment. We are therefore led to the conclusion, in this case, that although in terms the county seat of Alamakee county was permanently located at Columbus upon condition that the proprietor of the town should deed to the county certain lands, and although such deed was executed and delivered, still said proprietor cannot claim, as a vested right, that the county seat should forever remain at that place, nor can the people of the county be deprived_of the right to change the county seat by vote in the manner prescribed by law. Upon such removal, however, the county should re-convey the land which it obtained from the plaintiff.
+Judgment affirmed.
